@@ -4,7 +4,7 @@
     "description": "With React Hooks, Typescript, hot reload and code splitting",
     "private": false,
     "main": "index.js",
-    "author": "Nasser Maronie <firstpersoncode@gmail.com>",
+    "author": "Nasser Maronie <nasser.maronie@gmail.com>",
     "repository": {
         "type": "git",
         "url": "git@github.com:firstpersoncode/my-react-kit.git"
